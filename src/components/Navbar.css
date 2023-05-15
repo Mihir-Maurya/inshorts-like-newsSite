@@ -1,0 +1,12 @@
+.nav{
+  height: 60px;
+  box-shadow: 0px 1px 8px #888888;
+  display: flex;
+  align-items: center;
+}
+.logo{
+    flex: 0.48;
+}
+.hamburgerItems:hover{
+  background-color: #888888;
+}
